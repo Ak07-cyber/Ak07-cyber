@@ -25,104 +25,87 @@ Current focus     Full-stack AI products, GenAI APIs, RAG, cloud deployments
 Core stack        React, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB
 DevOps tools      Docker, Docker Compose, GitHub Actions, AWS ECS Fargate
 AI experience     OpenAI, Gemini API, LLaMA 3, embeddings, vector databases
+AI coding tools   Claude Code, Codex, Gemini CLI
 ```
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-| Area | Tools |
-| --- | --- |
-| Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus) |
-| Frontend | ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3) |
-| Backend | ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi) ![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=flat-square) |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis) ![Qdrant](https://img.shields.io/badge/Qdrant-111827?style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma) |
-| Cloud and DevOps | ![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices) ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes) ![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat-square&logo=nginx) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions) |
-| Observability | ![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-111827?style=flat-square&logo=grafana) ![New Relic](https://img.shields.io/badge/New_Relic-111827?style=flat-square&logo=newrelic) |
-
-</div>
-
----
-
-## Featured Work
-
-<table>
+<table width="100%" cellpadding="12">
   <tr>
-    <td width="50%">
-      <h3>AI-Powered Interview Preparation Platform</h3>
-      <p>Full-stack AI platform that generates personalized interview reports from resumes and job descriptions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs" alt="Node.js" />
-        <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Gemini_API-0f172a?style=flat-square" alt="Gemini API" />
-      </p>
-      <p><strong>Highlights:</strong> PDF resume parsing, role-fit scores, skill-gap insights, learning roadmaps, JWT auth, Docker Compose, GitHub Actions CI.</p>
-    </td>
-    <td width="50%">
-      <h3>BimaSarthi: AI-Powered Insurance Platform</h3>
-      <p>Insurance recommendation platform that matches users with plans based on income, family profile, and financial goals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs" alt="Node.js" />
-        <img src="https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/AWS_ECS-0f172a?style=flat-square&logo=amazonwebservices" alt="AWS ECS" />
-      </p>
-      <p><strong>Highlights:</strong> AI recommendation engine, OCR policy analysis, hidden-clause detection, Dockerized backend, ECS Fargate deployment.</p>
+    <th align="left" width="20%">Area</th>
+    <th align="left" width="80%">Tools</th>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" alt="JavaScript" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript" alt="TypeScript" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" alt="Python" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus" alt="C++" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Muzer: Collaborative Music Streaming Web App</h3>
-      <p>Multi-room music web app where users create spaces, queue songs, vote on tracks, and play music through the YouTube API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs" alt="Next.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma" alt="Prisma" />
-        <img src="https://img.shields.io/badge/NextAuth-0f172a?style=flat-square" alt="NextAuth" />
-      </p>
-      <p><strong>Highlights:</strong> Concurrent active rooms, upvote/downvote ranking, protected routes, Docker, GitHub Actions, AWS ECS Fargate.</p>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" alt="React" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs" alt="Next.js" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5" alt="HTML5" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3" alt="CSS3" />
     </td>
-    <td width="50%">
-      <h3>Semantic Recipe Search</h3>
-      <p>AI intern project using embeddings, vector DB retrieval, LLaMA 3, metadata filtering, and similarity ranking across 10K+ records.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Embeddings-0f172a?style=flat-square" alt="Embeddings" />
-        <img src="https://img.shields.io/badge/Vector_DB-0f172a?style=flat-square" alt="Vector DB" />
-        <img src="https://img.shields.io/badge/LLaMA_3-0f172a?style=flat-square" alt="LLaMA 3" />
-      </p>
-      <p><strong>Impact:</strong> Improved top-5 relevance from 61% to 72% and reduced average query latency from 320ms to 272ms.</p>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs" alt="Node.js" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express" alt="Express.js" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi" alt="FastAPI" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" alt="REST APIs" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge" alt="WebSockets" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb" alt="MongoDB" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis" alt="Redis" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Qdrant-111827?style=for-the-badge" alt="Qdrant" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma" alt="Prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud and DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices" alt="AWS" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker" alt="Docker" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx" alt="Nginx" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai" alt="OpenAI" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini" alt="Gemini" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/LLaMA_3-111827?style=for-the-badge" alt="LLaMA 3" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic" alt="Claude Code" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai" alt="Codex" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Gemini_CLI-111827?style=for-the-badge&logo=googlegemini" alt="Gemini CLI" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Observability</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus" alt="Prometheus" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana" alt="Grafana" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/New_Relic-111827?style=for-the-badge&logo=newrelic" alt="New Relic" />
     </td>
   </tr>
 </table>
-
----
-
-## Experience
-
-<details open>
-<summary><strong>AI Engineer Intern - Axcord Global Pvt. Limited</strong></summary>
-
-**May 2024 - July 2024 | Bangalore**
-
-- Built a semantic recipe search system with embedding models and a vector database across **10K+ indexed records**.
-- Integrated a **LLaMA 3** response layer to generate natural language recommendations and explanations from retrieved results.
-- Improved top-5 relevance from **61% to 72%** and reduced average query latency from **320ms to 272ms**.
-
-</details>
-
-<details>
-<summary><strong>Front-end Developer Intern - Alam Buhari Enterprise</strong></summary>
-
-**November 2023 - December 2023**
-
-- Built responsive web interfaces using HTML, CSS, and JavaScript across desktop and mobile.
-- Improved Lighthouse Performance score from **68 to 78** through UI and asset-loading optimizations.
-- Debugged cross-browser issues and improved release stability.
-
-</details>
 
 ---
 
@@ -130,48 +113,35 @@ AI experience     OpenAI, Gemini API, LLaMA 3, embeddings, vector databases
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ak07-cyber&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ak07-cyber&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## Highlights
+## AI Workflows
 
-<details open>
-<summary><strong>Achievements</strong></summary>
-
-- **Smart India Hackathon 2024 Finalist**, representing Chennai Institute of Technology among top national teams.
-- **Top Performer in Analytical Proficiency**, CDC, Chennai Institute of Technology.
-- **Promotion and Social Media Lead** for a national-level technical symposium, driving digital marketing, lead generation, and strategic communications.
-
-</details>
-
-<details>
-<summary><strong>Certifications</strong></summary>
-
-- CCNA: Introduction to Networks
-- AWS Cloud Specialization - Coursera
-- AWS Fundamentals Specialization - Coursera
-- AWS DevOps Engineer Professional Course - Udemy
-- NPTEL: Introduction to LLMs
-
-</details>
-
-<details>
-<summary><strong>Languages</strong></summary>
-
-- English - Proficient
-- Hindi - Native proficiency
-- Tamil - Proficient
-- Maithili - Native
-
-</details>
+<table width="100%" cellpadding="12">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Plan</h3>
+      <p>Use <strong>Claude Code</strong>, <strong>Codex</strong>, and <strong>Gemini CLI</strong> to explore repositories, break down features, and turn ambiguous requirements into implementation steps.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Build</h3>
+      <p>Pair AI coding tools with TypeScript, React, Node.js, and API workflows for faster scaffolding, refactoring, test generation, and integration work.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Ship</h3>
+      <p>Use Docker, GitHub Actions, AWS ECS Fargate, observability, and AI-assisted reviews to move projects from prototype to deployable product.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -180,6 +150,10 @@ AI experience     OpenAI, Gemini API, LLaMA 3, embeddings, vector databases
 ```mermaid
 mindmap
   root((Full-stack AI Products))
+    AI Coding Workflows
+      Claude Code
+      Codex
+      Gemini CLI
     AI Workflows
       LLM Integrations
       Resume Parsing
