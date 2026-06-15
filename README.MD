@@ -118,12 +118,13 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 
 <div align="center">
 
-<img width="72%" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img src="https://img.shields.io/badge/Contributions-76-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
 
 <br />
 <br />
 
-<img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&hide=stars" alt="GitHub stats" />
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages" />
 
 <br />
 <br />
