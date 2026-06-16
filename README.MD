@@ -123,13 +123,13 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 <br />
 <br />
 
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars,commits" alt="GitHub stats" />
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
 <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages" />
 
 <br />
 <br />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ak07-cyber&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ak07-cyber&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
