@@ -5,6 +5,7 @@ const path = require("path");
 const owner = process.env.PROFILE_USERNAME || process.env.GITHUB_REPOSITORY_OWNER || "Ak07-cyber";
 const token = process.env.GITHUB_TOKEN;
 const readmePath = path.resolve(process.env.README_PATH || "README.MD");
+const cacheKey = new Date().toISOString().slice(0, 10).replace(/-/g, "");
 
 if (!token) {
   throw new Error("GITHUB_TOKEN is required to update GitHub dashboard badges.");
@@ -114,6 +115,19 @@ function replaceBadgeValue(markdown, label, value) {
   return markdown.replace(badgePattern, `$1${value}$2`);
 }
 
+function refreshImageCache(markdown, imageHost) {
+  const imagePattern = new RegExp(`(src="https://${imageHost.replaceAll(".", "\\.")}/[^"]*?)(?:[?&]cache_bust=\\d+)?(")`, "g");
+
+  if (!imagePattern.test(markdown)) {
+    throw new Error(`Could not find image URL for ${imageHost} in ${readmePath}.`);
+  }
+
+  return markdown.replace(imagePattern, (match, url, quote) => {
+    const separator = url.includes("?") ? "&" : "?";
+    return `${url}${separator}cache_bust=${cacheKey}${quote}`;
+  });
+}
+
 async function main() {
   const [repositories, contributions] = await Promise.all([
     getRepoCount(),
@@ -123,10 +137,12 @@ async function main() {
   const readme = fs.readFileSync(readmePath, "utf8");
   let updated = replaceBadgeValue(readme, "Contributions", contributions);
   updated = replaceBadgeValue(updated, "Repositories", repositories);
+  updated = refreshImageCache(updated, "github-readme-stats.vercel.app");
+  updated = refreshImageCache(updated, "leetcard.jacoblin.cool");
 
   fs.writeFileSync(readmePath, updated);
 
-  console.log(`Updated GitHub dashboard badges: Contributions=${contributions}, Repositories=${repositories}`);
+  console.log(`Updated GitHub dashboard: Contributions=${contributions}, Repositories=${repositories}, Cache=${cacheKey}`);
 }
 
 main().catch((error) => {
