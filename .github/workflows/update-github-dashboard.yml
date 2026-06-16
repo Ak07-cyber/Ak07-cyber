@@ -29,8 +29,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Ak07-cyber"
+          git config user.email "ayushjha3108@gmail.com"
           git add README.MD
           git commit -m "Update profile dashboard"
           git push
