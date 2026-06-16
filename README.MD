@@ -118,18 +118,14 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 
 <div align="center">
 
-<table width="98%">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-      <br />
-      <img src="https://img.shields.io/badge/Contributions-76-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Contributions-76-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
+<img src="https://img.shields.io/badge/Repositories-8-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub public repositories count" />
+
+<br />
+<br />
+
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages" />
 
 <br />
 <br />
