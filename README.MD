@@ -118,8 +118,8 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Contributions-76-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
-<img src="https://img.shields.io/badge/Repositories-8-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub public repositories count" />
+<img src="https://img.shields.io/badge/Contributions-83-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
+<img src="https://img.shields.io/badge/Repositories-9-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub public repositories count" />
 
 <br />
 <br />
