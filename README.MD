@@ -118,14 +118,14 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Contributions-86-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
+<img src="https://img.shields.io/badge/Contributions-88-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
 <img src="https://img.shields.io/badge/Repositories-9-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub public repositories count" />
 
 <br />
 <br />
 
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_bust=20260616" alt="GitHub stats" />
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420&cache_bust=20260616" alt="Top languages" />
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_bust=20260617" alt="GitHub stats" />
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420&cache_bust=20260617" alt="Top languages" />
 
 <br />
 <br />
@@ -141,7 +141,7 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 <div align="center">
 
 <a href="https://leetcode.com/u/o8A3q4UXBS/">
-  <img width="58%" src="https://leetcard.jacoblin.cool/o8A3q4UXBS?theme=dark&font=Fira%20Code&cache_bust=20260616" alt="LeetCode stats for o8A3q4UXBS" />
+  <img width="58%" src="https://leetcard.jacoblin.cool/o8A3q4UXBS?theme=dark&font=Fira%20Code&cache_bust=20260617" alt="LeetCode stats for o8A3q4UXBS" />
 </a>
 
 </div>
