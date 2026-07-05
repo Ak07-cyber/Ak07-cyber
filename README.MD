@@ -118,7 +118,7 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Contributions-154-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
+<img src="https://img.shields.io/badge/Contributions-156-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
 <img src="https://img.shields.io/badge/Repositories-10-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub public repositories count" />
 
 <br />
@@ -127,10 +127,10 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&ring_color=6366f1&cache_bust=20260704" alt="GitHub stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&ring_color=6366f1&cache_bust=20260705" alt="GitHub stats" />
     </td>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&hide_border=true&langs_count=8&card_width=455&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&cache_bust=20260704" alt="Top languages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&hide_border=true&langs_count=8&card_width=455&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&cache_bust=20260705" alt="Top languages" />
     </td>
   </tr>
 </table>
@@ -149,7 +149,7 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 <div align="center">
 
 <a href="https://leetcode.com/u/o8A3q4UXBS/">
-  <img width="58%" src="https://leetcard.jacoblin.cool/o8A3q4UXBS?theme=dark&font=Fira%20Code&cache_bust=20260704" alt="LeetCode stats for o8A3q4UXBS" />
+  <img width="58%" src="https://leetcard.jacoblin.cool/o8A3q4UXBS?theme=dark&font=Fira%20Code&cache_bust=20260705" alt="LeetCode stats for o8A3q4UXBS" />
 </a>
 
 </div>
