@@ -36,16 +36,15 @@ currently deep into **LLM integrations, RAG pipelines, and making AI do useful t
 
 ---
 
-## 🔥 things i've built (that didn't catch fire)
+## 🔥 stuff i've gotten my hands dirty with
 
-| project | what it does | tech |
-|---------|-------------|------|
-| **VeluraHQ** | AI-native SEO platform with workflow engine & AI search tracking | Next.js 15, React 19, Gemini, MCP, Supabase |
-| **THAAKAM** | bilingual AI education platform (English/Tamil) with voice AI | Next.js, Supabase, Gemini, Sarvam AI, pgvector |
-| **Nadi HMS** | hospital management system with 60+ clinical modules & AI assistant | Next.js, Supabase, Gemini, FHIR R4 |
-| **BimaSarthi** | AI insurance recommender that flags hidden policy clauses | React, Node.js, OpenAI, AWS ECS Fargate |
-| **Muzer** | collaborative music streaming SaaS with vote-based queue | Next.js, Prisma, PostgreSQL, Docker |
-| **Interview Prep AI** | generates personalized interview reports from resumes | React, Node.js, Gemini API, MongoDB, Redis |
+- 🏥 **healthcare** — built hospital management systems with 60+ clinical modules, AI assistants that draft discharge summaries, and voice-powered clinical tools
+- 📚 **edtech** — shipped a bilingual AI education platform with RAG pipelines, voice AI (STT/TTS), and OCR for regional-language learning
+- 🔍 **SEO/marketing** — worked on an AI-native SEO platform with node-based workflow engines, AI search tracking across ChatGPT/Perplexity/Claude, and bulk optimization tools
+- 🎵 **music SaaS** — collaborative streaming app where users vote on the queue and the highest-voted track plays next
+- 🛡️ **insurance** — AI recommendation engine that matches users to plans and an OCR pipeline that flags hidden policy clauses
+- 🎤 **interview prep** — platform that eats your resume and spits out personalized interview reports, skill gaps, and learning roadmaps
+- 🏛️ **university management** — multi-tenant system covering admissions to NAAC/NIRF compliance with AI agents and payment integrations
 
 ---
 
