@@ -1,120 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,30:6366f1,70:06b6d4,100:22d3ee&height=190&section=header&text=Ayush%20Kumar%20Jha%20B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-stack%20Developer%20%7C%20DevOps%20Workflows%20%7C%20Production-ready%20Applications&descSize=17&descAlignY=58" alt="Ayush Kumar Jha B profile banner" />
+# 🧃 ayush jha
 
-<a href="mailto:ayushjha3108@gmail.com"><img src="https://img.shields.io/badge/Email-ayushjha3108%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Ak07-cyber"><img src="https://img.shields.io/badge/GitHub-Ak07--cyber-0b1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/kumar-ayush-jha0007"><img src="https://img.shields.io/badge/LinkedIn-kumar--ayush--jha0007-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+**i build things for the internet and occasionally they work**
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=React+%2B+Node.js+%2B+TypeScript+full-stack+developer;Building+LLM%2C+RAG%2C+and+AI-powered+product+workflows;Dockerized%2C+CI%2FCD-enabled%2C+cloud-deployed+applications" alt="Typing summary" />
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,45:6366f1,100:22d3ee&height=4&section=header" alt="Gradient divider" />
+[![portfolio](https://img.shields.io/badge/🌐_portfolio-ayush--jha--0-ff5722?style=flat-square)](https://ayush-jha-0-portfolio.netlify.app/)
+[![github](https://img.shields.io/badge/github-Ak07--cyber-181717?style=flat-square&logo=github)](https://github.com/Ak07-cyber)
+[![linkedin](https://img.shields.io/badge/linkedin-kumar--ayush--jha0007-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kumar-ayush-jha0007)
+[![email](https://img.shields.io/badge/email-ayushjha3108-ea4335?style=flat-square&logo=gmail)](mailto:ayushjha3108@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## `> whoami`
 
-I am a Computer Science and Engineering student specializing in AI and ML at Chennai Institute of Technology, with a CGPA of **8.87 / 10**. I build scalable web applications using **React, Node.js, TypeScript, PostgreSQL, MongoDB**, and cloud-native deployment workflows.
+full-stack dev who ships AI-powered web apps and occasionally deploys on a friday.
+been building production stuff across **education, healthcare, and SaaS** — the kind of apps that real people actually use (and sometimes break).
 
-My work sits at the intersection of full-stack engineering and applied AI: LLM integrations, semantic search, OCR pipelines, RAG-style retrieval, secure APIs, containerized services, and production-focused CI/CD.
+currently deep into **LLM integrations, RAG pipelines, and making AI do useful things** instead of just writing poetry.
 
-```txt
-Current focus     Full-stack AI products, GenAI APIs, RAG, cloud deployments
-Core stack        React, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB
-DevOps tools      Docker, Docker Compose, GitHub Actions, AWS ECS Fargate
-AI experience     OpenAI, Gemini API, embeddings, vector databases
-AI coding tools   Claude Code, Codex, Gemini CLI
+```
+ ┌─────────────────────────────────────────────────────┐
+ │  STACK.exe                                          │
+ │─────────────────────────────────────────────────────│
+ │  frontend   → React, Next.js, TypeScript, Tailwind  │
+ │  backend    → Node.js, Express, FastAPI              │
+ │  databases  → PostgreSQL, MongoDB, Redis, pgvector   │
+ │  AI stuff   → Gemini, OpenAI, LLaMA 3, RAG, MCP     │
+ │  devops     → Docker, GitHub Actions, AWS, K8s       │
+ │  languages  → JS/TS, Python, C++, SQL                │
+ │  vibes      → ships fast, breaks things, fixes them  │
+ └─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Tech Stack
+## 🔥 things i've built (that didn't catch fire)
 
-<table width="100%">
+| project | what it does | tech |
+|---------|-------------|------|
+| **VeluraHQ** | AI-native SEO platform with workflow engine & AI search tracking | Next.js 15, React 19, Gemini, MCP, Supabase |
+| **THAAKAM** | bilingual AI education platform (English/Tamil) with voice AI | Next.js, Supabase, Gemini, Sarvam AI, pgvector |
+| **Nadi HMS** | hospital management system with 60+ clinical modules & AI assistant | Next.js, Supabase, Gemini, FHIR R4 |
+| **BimaSarthi** | AI insurance recommender that flags hidden policy clauses | React, Node.js, OpenAI, AWS ECS Fargate |
+| **Muzer** | collaborative music streaming SaaS with vote-based queue | Next.js, Prisma, PostgreSQL, Docker |
+| **Interview Prep AI** | generates personalized interview reports from resumes | React, Node.js, Gemini API, MongoDB, Redis |
+
+---
+
+## 🛠️ the toolbox
+
+<table>
   <tr>
-    <th align="left">Area</th>
-    <th align="left">Tools</th>
-  </tr>
-  <tr>
-    <td width="22%"><strong>Languages</strong></td>
+    <td><strong>🎨 Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/JavaScript-0b1020?style=flat-square&logo=javascript" alt="JavaScript" /> &nbsp;
-      <img src="https://img.shields.io/badge/TypeScript-0b1020?style=flat-square&logo=typescript" alt="TypeScript" /> &nbsp;
-      <img src="https://img.shields.io/badge/Python-0b1020?style=flat-square&logo=python" alt="Python" /> &nbsp;
-      <img src="https://img.shields.io/badge/C++-0b1020?style=flat-square&logo=cplusplus" alt="C++" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
     </td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td><strong>⚙️ Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-0b1020?style=flat-square&logo=react" alt="React" /> &nbsp;
-      <img src="https://img.shields.io/badge/Next.js-0b1020?style=flat-square&logo=nextdotjs" alt="Next.js" /> &nbsp;
-      <img src="https://img.shields.io/badge/Tailwind_CSS-0b1020?style=flat-square&logo=tailwindcss" alt="Tailwind CSS" /> &nbsp;
-      <img src="https://img.shields.io/badge/HTML5-0b1020?style=flat-square&logo=html5" alt="HTML5" /> &nbsp;
-      <img src="https://img.shields.io/badge/CSS3-0b1020?style=flat-square&logo=css3" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
+    <td><strong>🗄️ Data</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs" alt="Node.js" /> &nbsp;
-      <img src="https://img.shields.io/badge/Express.js-0b1020?style=flat-square&logo=express" alt="Express.js" /> &nbsp;
-      <img src="https://img.shields.io/badge/FastAPI-0b1020?style=flat-square&logo=fastapi" alt="FastAPI" /> &nbsp;
-      <img src="https://img.shields.io/badge/REST_APIs-0b1020?style=flat-square" alt="REST APIs" /> &nbsp;
-      <img src="https://img.shields.io/badge/WebSockets-0b1020?style=flat-square" alt="WebSockets" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma" alt="Prisma" />
     </td>
   </tr>
   <tr>
-    <td><strong>Databases</strong></td>
+    <td><strong>🤖 AI/ML</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-0b1020?style=flat-square&logo=postgresql" alt="PostgreSQL" /> &nbsp;
-      <img src="https://img.shields.io/badge/MongoDB-0b1020?style=flat-square&logo=mongodb" alt="MongoDB" /> &nbsp;
-      <img src="https://img.shields.io/badge/Redis-0b1020?style=flat-square&logo=redis" alt="Redis" /> &nbsp;
-      <img src="https://img.shields.io/badge/Qdrant-0b1020?style=flat-square" alt="Qdrant" /> &nbsp;
-      <img src="https://img.shields.io/badge/Prisma-0b1020?style=flat-square&logo=prisma" alt="Prisma" />
+      <img src="https://img.shields.io/badge/Gemini-8e75b2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/LLaMA_3-0467df?style=flat-square" alt="LLaMA 3" />
+      <img src="https://img.shields.io/badge/RAG-ff6f00?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square" alt="MCP" />
     </td>
   </tr>
   <tr>
-    <td><strong>Cloud and DevOps</strong></td>
+    <td><strong>☁️ DevOps</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-0b1020?style=flat-square&logo=amazonwebservices" alt="AWS" /> &nbsp;
-      <img src="https://img.shields.io/badge/Docker-0b1020?style=flat-square&logo=docker" alt="Docker" /> &nbsp;
-      <img src="https://img.shields.io/badge/Kubernetes-0b1020?style=flat-square&logo=kubernetes" alt="Kubernetes" /> &nbsp;
-      <img src="https://img.shields.io/badge/Nginx-0b1020?style=flat-square&logo=nginx" alt="Nginx" /> &nbsp;
-      <img src="https://img.shields.io/badge/GitHub_Actions-0b1020?style=flat-square&logo=githubactions" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/K8s-326ce5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
     </td>
   </tr>
   <tr>
-    <td><strong>AI Tools</strong></td>
+    <td><strong>📊 Monitoring</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-0b1020?style=flat-square&logo=openai" alt="OpenAI" /> &nbsp;
-      <img src="https://img.shields.io/badge/Gemini-0b1020?style=flat-square&logo=googlegemini" alt="Gemini" /> &nbsp;
-      <img src="https://img.shields.io/badge/LLaMA_3-0b1020?style=flat-square" alt="LLaMA 3" /> &nbsp;
-      <img src="https://img.shields.io/badge/Claude_Code-0b1020?style=flat-square&logo=anthropic" alt="Claude Code" /> &nbsp;
-      <img src="https://img.shields.io/badge/Codex-0b1020?style=flat-square&logo=openai" alt="Codex" /> &nbsp;
-      <img src="https://img.shields.io/badge/Gemini_CLI-0b1020?style=flat-square&logo=googlegemini" alt="Gemini CLI" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Observability</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Prometheus-0b1020?style=flat-square&logo=prometheus" alt="Prometheus" /> &nbsp;
-      <img src="https://img.shields.io/badge/Grafana-0b1020?style=flat-square&logo=grafana" alt="Grafana" /> &nbsp;
-      <img src="https://img.shields.io/badge/New_Relic-0b1020?style=flat-square&logo=newrelic" alt="New Relic" />
+      <img src="https://img.shields.io/badge/Prometheus-e6522c?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-f46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/New_Relic-1ce783?style=flat-square&logo=newrelic&logoColor=white" alt="New Relic" />
     </td>
   </tr>
 </table>
 
 ---
 
-## GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -144,7 +141,7 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 
 ---
 
-## Coding Profiles
+## 🏆 Coding Profiles
 
 <div align="center">
 
@@ -156,48 +153,15 @@ AI coding tools   Claude Code, Codex, Gemini CLI
 
 ---
 
-## What I Like Building
-
-```mermaid
-mindmap
-  root((Full-stack AI Products))
-    AI Coding Workflows
-      Claude Code
-      Codex
-      Gemini CLI
-    AI Workflows
-      LLM Integrations
-      OCR Pipelines
-      RAG Systems
-    Web Platforms
-      React
-      Next.js
-      Node.js
-      TypeScript
-    Data Layer
-      PostgreSQL
-      MongoDB
-      Redis
-      Vector DBs
-    Delivery
-      Docker
-      GitHub Actions
-      AWS ECS Fargate
-      Monitoring
-```
-
----
-
 <div align="center">
 
-### Ready to collaborate on production-ready applications.
+```
+ ╔══════════════════════════════════════════════╗
+ ║  if you read this far, you're a real one.    ║
+ ║  go check out the portfolio or say hi 👋     ║
+ ╚══════════════════════════════════════════════╝
+```
 
-<a href="mailto:ayushjha3108@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
-<a href="https://www.linkedin.com/in/kumar-ayush-jha0007"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:6366f1,100:0b1020&height=110&section=footer" alt="Footer wave" />
+**[🌐 portfolio](https://ayush-jha-0-portfolio.netlify.app/)** · **[💬 email](mailto:ayushjha3108@gmail.com)** · **[🔗 linkedin](https://www.linkedin.com/in/kumar-ayush-jha0007)**
 
 </div>
