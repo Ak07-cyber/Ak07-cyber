@@ -137,7 +137,7 @@ async function main() {
   const readme = fs.readFileSync(readmePath, "utf8");
   let updated = replaceBadgeValue(readme, "Contributions", contributions);
   updated = replaceBadgeValue(updated, "Repositories", repositories);
-  updated = refreshImageCache(updated, "github-readme-stats.vercel.app");
+  updated = refreshImageCache(updated, "github-readme-stats.shion.dev");
   updated = refreshImageCache(updated, "leetcard.jacoblin.cool");
 
   fs.writeFileSync(readmePath, updated);
