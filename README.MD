@@ -123,10 +123,10 @@ currently deep into **LLM integrations, RAG pipelines, and making AI do useful t
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ak07-cyber&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&ring_color=6366f1&cache_bust=20260714" alt="GitHub stats" />
+      <img width="100%" src="https://github-readme-stats.shion.dev/api?username=Ak07-cyber&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&ring_color=6366f1&cache_bust=20260714" alt="GitHub stats" />
     </td>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak07-cyber&layout=compact&hide_border=true&langs_count=8&card_width=455&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&cache_bust=20260714" alt="Top languages" />
+      <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs?username=Ak07-cyber&layout=compact&hide_border=true&langs_count=8&card_width=455&bg_color=0b1020&title_color=22d3ee&text_color=a5b4fc&icon_color=06b6d4&cache_bust=20260714" alt="Top languages" />
     </td>
   </tr>
 </table>
