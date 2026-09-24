@@ -114,7 +114,7 @@ currently deep into **LLM integrations, RAG pipelines, and making AI do useful t
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Contributions-369-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
+<img src="https://img.shields.io/badge/Contributions-553-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions count" />
 <img src="https://img.shields.io/badge/Repositories-14-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub public repositories count" />
 
 <br />
